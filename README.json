@@ -33,7 +33,7 @@
             "last_commit": "2026-06-22T22:27:05Z",
             "owner": "monarch-initiative",
             "repo": "ontogpt",
-            "stars": 972
+            "stars": 971
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2025-03-05T11:37:00Z",
             "owner": "RManLuo",
             "repo": "reasoning-on-graphs",
-            "stars": 530
+            "stars": 531
           }
         },
         {
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:14:44.304Z",
+    "last_updated": "2026-08-14T05:43:01.243Z",
     "original_repository": "zjukg/KG-LLM-Papers",
     "original_repository_sha": "c1b0f1e9fa374e2707e5ea1c6588c77ff4973e7b",
     "enhanced_repository": "enhansome/enhansome-KG-LLM-Papers",
