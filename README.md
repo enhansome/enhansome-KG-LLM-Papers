@@ -57,14 +57,14 @@
 * \[[arxiv](https://arxiv.org/abs/2309.01029)] Explainability for Large Language Models: A Survey. `2023.09`
 * \[[arxiv](https://arxiv.org/abs/2308.14217)] Generations of Knowledge Graphs: The Crazy Ideas and the Business Impact. `2023.08`
 * \[[arxiv](https://arxiv.org/abs/2308.06374)] Large Language Models and Knowledge Graphs: Opportunities and Challenges. `2023.08`
-* \[[TKDE](https://arxiv.org/pdf/2306.08302)] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,614 | 🐛 6 | 📅 2025-05-02]
+* \[[TKDE](https://arxiv.org/pdf/2306.08302)] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,613 | 🐛 6 | 📅 2025-05-02]
 * \[[arxiv](https://arxiv.org/pdf/2306.11489.pdf)] ChatGPT is not Enough: Enhancing Large Language Models with Knowledge Graphs for Fact-aware Language Modeling. `2023.06`
 * \[[arxiv](https://arxiv.org/abs/2211.05994)] A Survey of Knowledge-Enhanced Pre-trained Language Models. `2023.05`
 
 ### Method
 
-* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,940 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
-* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 971 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-06-22]
+* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,942 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
+* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 972 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-06-22]
 * \[[arxiv](https://arxiv.org/abs/2311.17330)] Biomedical knowledge graph-optimized prompt generation for large language models. `2023.11` \[[Repo](https://github.com/BaranziniLab/KG_RAG) ⭐ 944 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-11-09]
 * \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 531 | 🐛 7 | 🌐 Python | 📅 2025-03-05]
 * \[[arxiv](https://arxiv.org/abs/2305.13168)] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05` \[[Repo](https://github.com/zjunlp/AutoKG) ⭐ 471 | 🐛 1 | 🌐 Python | 📅 2025-01-14]
@@ -408,4 +408,4 @@ If this Repo is helpful to you, please consider citing one of our papers. We wou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
