@@ -63,7 +63,7 @@
 
 ### Method
 
-* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,946 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
+* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,948 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
 * \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 973 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-06-22]
 * \[[arxiv](https://arxiv.org/abs/2311.17330)] Biomedical knowledge graph-optimized prompt generation for large language models. `2023.11` \[[Repo](https://github.com/BaranziniLab/KG_RAG) ⭐ 944 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-11-09]
 * \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 531 | 🐛 7 | 🌐 Python | 📅 2025-03-05]
@@ -74,7 +74,7 @@
 * \[[arxiv](https://arxiv.org/abs/2305.01157)] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`  \[[Repo](https://github.com/Akirato/LLM-KG-Reasoning/tree/main) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2023-05-02]
 * \[[ACL 24](https://arxiv.org/abs/2401.06853)] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-04-11]
 * \[[NeurIPS 2024](https://arxiv.org/abs/2402.06861)] UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction. `2024.10` \[[Repo](https://github.com/usail-hkust/UrbanKGent) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2025-10-14]
-* \[[NeurIPS 2024](https://arxiv.org/abs/2405.16806)] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models. `2024.09` \[[Repo](https://github.com/chensyCN/llm4ea_official) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2025-10-10]
+* \[[NeurIPS 2024](https://arxiv.org/abs/2405.16806)] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models. `2024.09` \[[Repo](https://github.com/chensyCN/llm4ea_official) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2025-10-10]
 * \[[arxiv](https://arxiv.org/abs/2405.20455)] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06` \[[Repo](https://github.com/Mohannadcse/DepsRAG) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-06-08]
 * \[[NeurIPS 2024](https://arxiv.org/abs/2410.07526)] MKGL: Mastery of a Three-Word Language. `2024.10` \[[Repo](https://github.com/zjukg/MKGL) ⭐ 33 | 🐛 5 | 🌐 Python | 📅 2025-02-24]
 * \[[ICML 2024](https://openreview.net/forum?id=JCG0KTPVYy)] Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models. `2024.10` \[[Repo](https://github.com/shiliu-egg/ICML2024_COFT) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-24]
@@ -408,4 +408,4 @@ If this Repo is helpful to you, please consider citing one of our papers. We wou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
