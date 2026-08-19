@@ -19,7 +19,7 @@
             "last_commit": "2026-07-29T00:02:46Z",
             "owner": "OSU-NLP-Group",
             "repo": "HippoRAG",
-            "stars": 3948
+            "stars": 3950
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2025-03-05T11:37:00Z",
             "owner": "RManLuo",
             "repo": "reasoning-on-graphs",
-            "stars": 531
+            "stars": 532
           }
         },
         {
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:44:22.654Z",
+    "last_updated": "2026-08-19T04:45:22.011Z",
     "original_repository": "zjukg/KG-LLM-Papers",
     "original_repository_sha": "c1b0f1e9fa374e2707e5ea1c6588c77ff4973e7b",
     "enhanced_repository": "enhansome/enhansome-KG-LLM-Papers",
