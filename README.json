@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-29T00:02:46Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3953
+                "stars": 3954
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-06-22T22:27:05Z",
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 973
+                "stars": 974
               }
             },
             {
@@ -107,7 +107,7 @@
                 "last_commit": "2025-05-27T06:49:06Z",
                 "owner": "pat-jj",
                 "repo": "KG-FIT",
-                "stars": 131
+                "stars": 130
               }
             },
             {
@@ -187,21 +187,6 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
-              "description": "] DepsRAG: Towards Managing Software Dependencies using Large Language Models. [Repo]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 767602654,
-                "language": "Python",
-                "last_commit": "2026-06-08T07:42:19Z",
-                "owner": "Mohannadcse",
-                "repo": "DepsRAG",
-                "stars": 34
-              }
-            },
-            {
-              "node_type": "item",
               "title": "[NeurIPS 2024",
               "description": "] MKGL: Mastery of a Three-Word Language. [Repo]",
               "children": [],
@@ -212,6 +197,21 @@
                 "last_commit": "2025-02-24T12:29:33Z",
                 "owner": "zjukg",
                 "repo": "MKGL",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[arxiv",
+              "description": "] DepsRAG: Towards Managing Software Dependencies using Large Language Models. [Repo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 767602654,
+                "language": "Python",
+                "last_commit": "2026-06-08T07:42:19Z",
+                "owner": "Mohannadcse",
+                "repo": "DepsRAG",
                 "stars": 33
               }
             },
@@ -322,7 +322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:46:14.012Z",
+    "last_updated": "2026-08-21T04:48:42.744Z",
     "original_repository": "zjukg/KG-LLM-Papers",
     "original_repository_id": 652420569,
     "original_repository_sha": "c1b0f1e9fa374e2707e5ea1c6588c77ff4973e7b",

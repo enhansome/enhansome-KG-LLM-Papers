@@ -1,7 +1,7 @@
 # Awesome KG-LLM-Papers with stars
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,224 | 🐛 10 | 📅 2026-03-02
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zjukg/KG-LLM-Papers/blob/main/LICENSE) ⭐ 2,224 | 🐛 10 | 📅 2026-03-02
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/zjukg/KG-LLM-Papers) ⭐ 2,225 | 🐛 10 | 📅 2026-03-02
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/zjukg/KG-LLM-Papers/blob/main/LICENSE) ⭐ 2,225 | 🐛 10 | 📅 2026-03-02
 ![](https://img.shields.io/github/last-commit/zjukg/KG-LLM-Papers?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
@@ -18,7 +18,7 @@
 
 * **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  \[[`Repo`](https://github.com/zjukg/KG-MM-Survey) ⭐ 505 | 🐛 0 | 📅 2026-03-02].**
 * **`2024-07` Our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) has been accepted by ACM MM 2024 as an oral paper. \[[`Repo`](https://github.com/zjukg/KoPA) ⭐ 212 | 🐛 3 | 🌐 Python | 📅 2024-08-12]**
-* **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. \[[`Repo`](https://github.com/zjukg/KnowPAT) ⭐ 193 | 🐛 0 | 🌐 Python | 📅 2024-06-10]**
+* **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. \[[`Repo`](https://github.com/zjukg/KnowPAT) ⭐ 192 | 🐛 0 | 🌐 Python | 📅 2024-06-10]**
 * **`2025-02` We preprint our Paper [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2502.05478) (WWW 2025) \[[`Repo`](https://github.com/zjukg/OntoTune) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2025-07-21].**
 * **`2024-09` Our paper [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn) has been accepted by NeurIPS 2024 as a spotlight paper. \[[`Repo`](https://github.com/zjukg/MKGL) ⭐ 33 | 🐛 5 | 🌐 Python | 📅 2025-02-24]**
 * **`2025-02` We preprint our Paper [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/abs/2502.06257) (AAAI 2025 Oral) \[[`Repo`](https://github.com/zjukg/K-ON) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-02-22].**
@@ -63,20 +63,20 @@
 
 ### Method
 
-* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,953 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
-* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 973 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-06-22]
+* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,954 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
+* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 974 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-06-22]
 * \[[arxiv](https://arxiv.org/abs/2311.17330)] Biomedical knowledge graph-optimized prompt generation for large language models. `2023.11` \[[Repo](https://github.com/BaranziniLab/KG_RAG) ⭐ 944 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-11-09]
 * \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 533 | 🐛 7 | 🌐 Python | 📅 2025-03-05]
 * \[[arxiv](https://arxiv.org/abs/2305.13168)] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05` \[[Repo](https://github.com/zjunlp/AutoKG) ⭐ 471 | 🐛 1 | 🌐 Python | 📅 2025-01-14]
 * \[[arxiv](https://arxiv.org/abs/2308.13916)] Exploring Large Language Models for Knowledge Graph Completion. `2023.08` \[[Repo](https://github.com/yao8839836/kg-llm) ⭐ 162 | 🐛 11 | 🌐 Python | 📅 2025-08-23]
-* \[[NeurIPS 2024](https://arxiv.org/abs/2405.16412)] KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge. `2024.10` \[[Repo](https://github.com/pat-jj/KG-FIT) ⭐ 131 | 🐛 1 | 🌐 Python | 📅 2025-05-27]
+* \[[NeurIPS 2024](https://arxiv.org/abs/2405.16412)] KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge. `2024.10` \[[Repo](https://github.com/pat-jj/KG-FIT) ⭐ 130 | 🐛 1 | 🌐 Python | 📅 2025-05-27]
 * \[[arxiv](https://arxiv.org/abs/2401.04507)] TechGPT-2.0: A large language model project to solve the task of knowledge graph construction. `2024.01` \[[Repo](https://github.com/neukg/TechGPT-2.0) ⭐ 115 | 🐛 2 | 🌐 Python | 📅 2024-08-23]
 * \[[arxiv](https://arxiv.org/abs/2305.01157)] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`  \[[Repo](https://github.com/Akirato/LLM-KG-Reasoning/tree/main) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2023-05-02]
 * \[[ACL 24](https://arxiv.org/abs/2401.06853)] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-04-11]
 * \[[NeurIPS 2024](https://arxiv.org/abs/2402.06861)] UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction. `2024.10` \[[Repo](https://github.com/usail-hkust/UrbanKGent) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2025-10-14]
 * \[[NeurIPS 2024](https://arxiv.org/abs/2405.16806)] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models. `2024.09` \[[Repo](https://github.com/chensyCN/llm4ea_official) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2025-10-10]
-* \[[arxiv](https://arxiv.org/abs/2405.20455)] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06` \[[Repo](https://github.com/Mohannadcse/DepsRAG) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2026-06-08]
 * \[[NeurIPS 2024](https://arxiv.org/abs/2410.07526)] MKGL: Mastery of a Three-Word Language. `2024.10` \[[Repo](https://github.com/zjukg/MKGL) ⭐ 33 | 🐛 5 | 🌐 Python | 📅 2025-02-24]
+* \[[arxiv](https://arxiv.org/abs/2405.20455)] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06` \[[Repo](https://github.com/Mohannadcse/DepsRAG) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-06-08]
 * \[[ICML 2024](https://openreview.net/forum?id=JCG0KTPVYy)] Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models. `2024.10` \[[Repo](https://github.com/shiliu-egg/ICML2024_COFT) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-24]
 * \[[arxiv](https://arxiv.org/abs/2405.14012)] Prompt-Time Ontology-Driven Symbolic Knowledge Capture with Large Language Models  `2024.05` \[[Repo](https://github.com/HaltiaAI/paper-PTODSKC) ⚠️ Archived]
 * \[[arxiv](https://arxiv.org/abs/2402.00414)] Prompt-Time Symbolic Knowledge Capture with Large Language Models. `2024.02` \[[Repo](https://github.com/HaltiaAI/paper-PTSKC) ⚠️ Archived]
@@ -408,4 +408,4 @@ If this Repo is helpful to you, please consider citing one of our papers. We wou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
