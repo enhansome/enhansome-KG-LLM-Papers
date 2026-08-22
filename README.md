@@ -19,7 +19,7 @@
 * **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  \[[`Repo`](https://github.com/zjukg/KG-MM-Survey) ⭐ 505 | 🐛 0 | 📅 2026-03-02].**
 * **`2024-07` Our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) has been accepted by ACM MM 2024 as an oral paper. \[[`Repo`](https://github.com/zjukg/KoPA) ⭐ 212 | 🐛 3 | 🌐 Python | 📅 2024-08-12]**
 * **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. \[[`Repo`](https://github.com/zjukg/KnowPAT) ⭐ 192 | 🐛 0 | 🌐 Python | 📅 2024-06-10]**
-* **`2025-02` We preprint our Paper [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2502.05478) (WWW 2025) \[[`Repo`](https://github.com/zjukg/OntoTune) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2025-07-21].**
+* **`2025-02` We preprint our Paper [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2502.05478) (WWW 2025) \[[`Repo`](https://github.com/zjukg/OntoTune) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2025-07-21].**
 * **`2024-09` Our paper [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn) has been accepted by NeurIPS 2024 as a spotlight paper. \[[`Repo`](https://github.com/zjukg/MKGL) ⭐ 33 | 🐛 5 | 🌐 Python | 📅 2025-02-24]**
 * **`2025-02` We preprint our Paper [K-ON: Stacking Knowledge On the Head Layer of Large Language Model](https://arxiv.org/abs/2502.06257) (AAAI 2025 Oral) \[[`Repo`](https://github.com/zjukg/K-ON) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-02-22].**
 * **`2025-01` We preprint our Paper [Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking](https://arxiv.org/abs/2501.00244)  \[[`Repo`](https://github.com/zjukg/SUBARU) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2025-02-25].**
@@ -63,8 +63,8 @@
 
 ### Method
 
-* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,954 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
-* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 974 | 🐛 77 | 🌐 Jupyter Notebook | 📅 2026-06-22]
+* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,956 | 🐛 7 | 🌐 Python | 📅 2026-07-29]
+* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 976 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-06-22]
 * \[[arxiv](https://arxiv.org/abs/2311.17330)] Biomedical knowledge graph-optimized prompt generation for large language models. `2023.11` \[[Repo](https://github.com/BaranziniLab/KG_RAG) ⭐ 944 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-11-09]
 * \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 533 | 🐛 7 | 🌐 Python | 📅 2025-03-05]
 * \[[arxiv](https://arxiv.org/abs/2305.13168)] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05` \[[Repo](https://github.com/zjunlp/AutoKG) ⭐ 471 | 🐛 1 | 🌐 Python | 📅 2025-01-14]
@@ -408,4 +408,4 @@ If this Repo is helpful to you, please consider citing one of our papers. We wou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
