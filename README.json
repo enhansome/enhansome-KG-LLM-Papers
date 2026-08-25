@@ -155,7 +155,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "OSU-NLP-Group/HippoRAG",
               "description": "] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models [Repo]",
               "children": [],
               "repo_info": {
@@ -165,12 +165,12 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3961
+                "stars": 3962
               }
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "monarch-initiative/ontogpt",
               "description": "] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. [Repo]",
               "children": [],
               "repo_info": {
@@ -185,7 +185,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "BaranziniLab/KG_RAG",
               "description": "] Biomedical knowledge graph-optimized prompt generation for large language models. [Repo]",
               "children": [],
               "repo_info": {
@@ -215,7 +215,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "zjunlp/AutoKG",
               "description": "] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. [Repo]",
               "children": [],
               "repo_info": {
@@ -230,7 +230,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "yao8839836/kg-llm",
               "description": "] Exploring Large Language Models for Knowledge Graph Completion. [Repo]",
               "children": [],
               "repo_info": {
@@ -260,7 +260,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "neukg/TechGPT-2.0",
               "description": "] TechGPT-2.0: A large language model project to solve the task of knowledge graph construction. [Repo]",
               "children": [],
               "repo_info": {
@@ -275,7 +275,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "Akirato/LLM-KG-Reasoning",
               "description": "] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. [Repo]",
               "children": [],
               "repo_info": {
@@ -350,7 +350,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "Mohannadcse/DepsRAG",
               "description": "] DepsRAG: Towards Managing Software Dependencies using Large Language Models. [Repo]",
               "children": [],
               "repo_info": {
@@ -380,7 +380,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "HaltiaAI/paper-PTODSKC",
               "description": "] Prompt-Time Ontology-Driven Symbolic Knowledge Capture with Large Language Models [Repo]",
               "children": [],
               "repo_info": {
@@ -395,7 +395,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "HaltiaAI/paper-PTSKC",
               "description": "] Prompt-Time Symbolic Knowledge Capture with Large Language Models. [Repo]",
               "children": [],
               "repo_info": {
@@ -417,7 +417,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "snap-stanford/stark",
               "description": "] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. [Repo]",
               "children": [],
               "repo_info": {
@@ -447,7 +447,7 @@
             },
             {
               "node_type": "item",
-              "title": "[arxiv",
+              "title": "ernlavr/multihal",
               "description": "] MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations [Repo]",
               "children": [],
               "repo_info": {
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:48:10.741Z",
+    "last_updated": "2026-08-25T06:04:51.217Z",
     "original_repository": "zjukg/KG-LLM-Papers",
     "original_repository_id": 652420569,
     "original_repository_sha": "c1b0f1e9fa374e2707e5ea1c6588c77ff4973e7b",
