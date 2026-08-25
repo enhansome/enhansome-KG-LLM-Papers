@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3960
+                "stars": 3961
               }
             },
             {
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:07:41.407Z",
+    "last_updated": "2026-08-25T04:48:10.741Z",
     "original_repository": "zjukg/KG-LLM-Papers",
     "original_repository_id": 652420569,
     "original_repository_sha": "c1b0f1e9fa374e2707e5ea1c6588c77ff4973e7b",
