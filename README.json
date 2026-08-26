@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3962
+                "stars": 3966
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2026-06-22T22:27:05Z",
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 978
+                "stars": 980
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2025-03-05T11:37:00Z",
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
-                "stars": 532
+                "stars": 533
               }
             },
             {
@@ -470,7 +470,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:04:51.217Z",
+    "last_updated": "2026-08-26T04:49:17.065Z",
     "original_repository": "zjukg/KG-LLM-Papers",
     "original_repository_id": 652420569,
     "original_repository_sha": "c1b0f1e9fa374e2707e5ea1c6588c77ff4973e7b",
