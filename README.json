@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3966
+                "stars": 3967
               }
             },
             {
@@ -180,7 +180,7 @@
                 "last_commit": "2026-06-22T22:27:05Z",
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 980
+                "stars": 982
               }
             },
             {
@@ -470,9 +470,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:49:17.065Z",
-    "original_repository": "zjukg/KG-LLM-Papers",
-    "original_repository_id": 652420569,
+    "last_updated": "2026-08-27T11:46:13.794Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 652420569,
+      "language": null,
+      "last_commit": "2026-03-02T20:23:03Z",
+      "owner": "zjukg",
+      "repo": "KG-LLM-Papers",
+      "stars": 2227
+    },
     "original_repository_sha": "c1b0f1e9fa374e2707e5ea1c6588c77ff4973e7b",
     "enhanced_repository": "enhansome/enhansome-KG-LLM-Papers",
     "enhanced_repository_description": null,
