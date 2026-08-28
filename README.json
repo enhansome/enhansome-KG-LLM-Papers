@@ -15,8 +15,9 @@
             "last_commit": "2026-03-02T20:22:38Z",
             "owner": "zjukg",
             "repo": "KG-MM-Survey",
-            "stars": 505
-          }
+            "stars": 506
+          },
+          "first_seen": "2026-08-28T16:31:52.188Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "zjukg",
             "repo": "KoPA",
             "stars": 213
-          }
+          },
+          "first_seen": "2026-08-28T16:31:52.188Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "zjukg",
             "repo": "KnowPAT",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-28T16:31:52.188Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "zjukg",
             "repo": "OntoTune",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T16:31:52.188Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "zjukg",
             "repo": "MKGL",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:31:52.188Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "zjukg",
             "repo": "K-ON",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:31:52.188Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "zjukg",
             "repo": "SUBARU",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:31:52.188Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "zjukg",
             "repo": "TrustUQA",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T16:31:52.188Z"
         }
       ],
       "title": "👈 🔔 News"
@@ -143,8 +151,9 @@
                 "last_commit": "2025-05-02T02:00:45Z",
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2613
-              }
+                "stars": 2614
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             }
           ],
           "description": null,
@@ -165,8 +174,9 @@
                 "last_commit": "2026-08-23T14:35:10Z",
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3967
-              }
+                "stars": 3968
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -180,8 +190,9 @@
                 "last_commit": "2026-06-22T22:27:05Z",
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 982
-              }
+                "stars": 983
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
                 "stars": 943
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -211,7 +223,8 @@
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
                 "stars": 533
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "zjunlp",
                 "repo": "AutoKG",
                 "stars": 472
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "yao8839836",
                 "repo": "kg-llm",
                 "stars": 162
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -256,7 +271,8 @@
                 "owner": "pat-jj",
                 "repo": "KG-FIT",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -271,7 +287,8 @@
                 "owner": "neukg",
                 "repo": "TechGPT-2.0",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -286,7 +303,8 @@
                 "owner": "Akirato",
                 "repo": "LLM-KG-Reasoning",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -301,7 +319,8 @@
                 "owner": "xiongsiheng",
                 "repo": "TG-LLM",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -316,7 +335,8 @@
                 "owner": "usail-hkust",
                 "repo": "UrbanKGent",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -331,7 +351,8 @@
                 "owner": "chensyCN",
                 "repo": "llm4ea_official",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -346,7 +367,8 @@
                 "owner": "zjukg",
                 "repo": "MKGL",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -361,7 +383,8 @@
                 "owner": "Mohannadcse",
                 "repo": "DepsRAG",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -376,7 +399,8 @@
                 "owner": "shiliu-egg",
                 "repo": "ICML2024_COFT",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -391,7 +415,8 @@
                 "owner": "HaltiaAI",
                 "repo": "paper-PTODSKC",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -406,7 +431,8 @@
                 "owner": "HaltiaAI",
                 "repo": "paper-PTSKC",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             }
           ],
           "description": null,
@@ -428,7 +454,8 @@
                 "owner": "snap-stanford",
                 "repo": "stark",
                 "stars": 335
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -443,7 +470,8 @@
                 "owner": "xiongsiheng",
                 "repo": "TG-LLM",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             },
             {
               "node_type": "item",
@@ -458,7 +486,8 @@
                 "owner": "ernlavr",
                 "repo": "multihal",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
             }
           ],
           "description": null,
@@ -470,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:07:22.902Z",
+    "last_updated": "2026-08-28T16:31:52.188Z",
     "original_repository_info": {
       "archived": false,
       "id": 652420569,

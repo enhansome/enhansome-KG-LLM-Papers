@@ -16,7 +16,7 @@
 <details>
  <summary>👈 🔔 News </summary>
 
-* **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  \[[`Repo`](https://github.com/zjukg/KG-MM-Survey) ⭐ 505 | 🐛 0 | 📅 2026-03-02].**
+* **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  \[[`Repo`](https://github.com/zjukg/KG-MM-Survey) ⭐ 506 | 🐛 0 | 📅 2026-03-02].**
 * **`2024-07` Our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) has been accepted by ACM MM 2024 as an oral paper. \[[`Repo`](https://github.com/zjukg/KoPA) ⭐ 213 | 🐛 3 | 🌐 Python | 📅 2024-08-12]**
 * **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. \[[`Repo`](https://github.com/zjukg/KnowPAT) ⭐ 192 | 🐛 0 | 🌐 Python | 📅 2024-06-10]**
 * **`2025-02` We preprint our Paper [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2502.05478) (WWW 2025) \[[`Repo`](https://github.com/zjukg/OntoTune) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2025-07-21].**
@@ -48,7 +48,7 @@
 
 ### Surveys
 
-* \[[TKDE](https://arxiv.org/pdf/2306.08302)] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,613 | 🐛 6 | 📅 2025-05-02]
+* \[[TKDE](https://arxiv.org/pdf/2306.08302)] Unifying Large Language Models and Knowledge Graphs: A Roadmap. `2023.06` \[[Repo](https://github.com/RManLuo/Awesome-LLM-KG) ⭐ 2,614 | 🐛 6 | 📅 2025-05-02]
 * \[[JoWS](https://www.sciencedirect.com/science/article/pii/S1570826824000301)] Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective `2024.12`
 * \[[arxiv](https://arxiv.org/abs/2402.05391)] Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey. `2024.02`
 * \[[arxiv](https://arxiv.org/abs/2311.07914)] Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey. `2023.11`
@@ -63,8 +63,8 @@
 
 ### Method
 
-* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,967 | 🐛 7 | 🌐 Python | 📅 2026-08-23]
-* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 982 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-06-22]
+* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,968 | 🐛 7 | 🌐 Python | 📅 2026-08-23]
+* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 983 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-06-22]
 * \[[arxiv](https://arxiv.org/abs/2311.17330)] Biomedical knowledge graph-optimized prompt generation for large language models. `2023.11` \[[Repo](https://github.com/BaranziniLab/KG_RAG) ⭐ 943 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-11-09]
 * \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 533 | 🐛 7 | 🌐 Python | 📅 2025-03-05]
 * \[[arxiv](https://arxiv.org/abs/2305.13168)] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05` \[[Repo](https://github.com/zjunlp/AutoKG) ⭐ 472 | 🐛 1 | 🌐 Python | 📅 2025-01-14]
@@ -408,4 +408,4 @@ If this Repo is helpful to you, please consider citing one of our papers. We wou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
