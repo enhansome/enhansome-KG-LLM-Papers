@@ -10,12 +10,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey",
+            "homepage": "http://arxiv.org/abs/2402.05391",
             "id": 749642189,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-02T20:22:38Z",
+            "open_issues": 0,
             "owner": "zjukg",
             "repo": "KG-MM-Survey",
-            "stars": 506
+            "stars": 506,
+            "topics": [
+              "awsome",
+              "awsome-list",
+              "cross-modal-retrieval",
+              "entity-alignment",
+              "entity-linking",
+              "image-classification",
+              "image-generation",
+              "information-extraction",
+              "knowledge-graph",
+              "knowledge-graph-embeddings",
+              "large-language-models",
+              "multi-modal-fusion",
+              "multi-modal-knowledge-graph",
+              "multi-modal-learning",
+              "paper-list",
+              "survey",
+              "surveys",
+              "visual-question-answering"
+            ]
           },
           "first_seen": "2026-08-28T16:31:52.188Z"
         },
@@ -26,12 +50,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Paper][ACM MM 2024] Making Large Language Models Perform Better in Knowledge Graph Completion",
+            "homepage": null,
             "id": 703047483,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-12T07:41:24Z",
+            "open_issues": 3,
             "owner": "zjukg",
             "repo": "KoPA",
-            "stars": 213
+            "stars": 213,
+            "topics": [
+              "instruction-tuning",
+              "knowledge-graph",
+              "knowledge-graph-completion",
+              "knowledge-graph-embeddings",
+              "large-language-models",
+              "multi-modal",
+              "multimodal-large-language-models"
+            ]
           },
           "first_seen": "2026-08-28T16:31:52.188Z"
         },
@@ -42,12 +79,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Paper][ACL 2024 Findings] Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering",
+            "homepage": "https://arxiv.org/abs/2311.06503",
             "id": 716509477,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-10T09:09:45Z",
+            "open_issues": 0,
             "owner": "zjukg",
             "repo": "KnowPAT",
-            "stars": 192
+            "stars": 192,
+            "topics": [
+              "domain-specific-qa",
+              "instruction-tuning",
+              "knowledge-graph",
+              "large-language-models",
+              "preference-alignment",
+              "question-answering"
+            ]
           },
           "first_seen": "2026-08-28T16:31:52.188Z"
         },
@@ -58,12 +107,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Paper][WWW2025] OntoTune: Ontology-Driven Self-training for Aligning Large Language Models",
+            "homepage": null,
             "id": 921055646,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-21T11:54:28Z",
+            "open_issues": 1,
             "owner": "zjukg",
             "repo": "OntoTune",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "knowledge",
+              "knowledge-graph",
+              "large-language-models",
+              "medical",
+              "medical-question-answering",
+              "ontology",
+              "ontotune",
+              "post-training"
+            ]
           },
           "first_seen": "2026-08-28T16:31:52.188Z"
         },
@@ -74,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastery of a Three-Word Language for Knowledge Graph Completion",
+            "homepage": null,
             "id": 869398679,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-24T12:29:33Z",
+            "open_issues": 5,
             "owner": "zjukg",
             "repo": "MKGL",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:31:52.188Z"
         },
@@ -90,12 +158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "K-ON: Stacking Knowledge On the Head Layer of Large Language Model, AAAI 2025 Oral",
+            "homepage": null,
             "id": 936967689,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-22T03:05:19Z",
+            "open_issues": 1,
             "owner": "zjukg",
             "repo": "K-ON",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:31:52.188Z"
         },
@@ -106,12 +179,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ACL 2025 Main] Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking",
+            "homepage": "https://arxiv.org/abs/2501.00244",
             "id": 911424492,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-02-25T07:02:05Z",
+            "open_issues": 1,
             "owner": "zjukg",
             "repo": "SUBARU",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "datasets",
+              "evaluation",
+              "knowledge-graph",
+              "knowledge-reasoning",
+              "large-language-models",
+              "prompt-learning",
+              "structural-knowledge"
+            ]
           },
           "first_seen": "2026-08-28T16:31:52.188Z"
         },
@@ -122,12 +208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Paper][AAAI2025] TrustUQA: A Trustful Framework for Unified Structured Data Question",
+            "homepage": null,
             "id": 901178123,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-06T09:16:28Z",
+            "open_issues": 0,
             "owner": "zjukg",
             "repo": "TrustUQA",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:31:52.188Z"
         }
@@ -146,12 +237,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome papers about unifying LLMs and KGs",
+                "homepage": null,
                 "id": 650839020,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-02T02:00:45Z",
+                "open_issues": 6,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2614
+                "stars": 2614,
+                "topics": [
+                  "awsome",
+                  "chatgpt",
+                  "gpt-4",
+                  "kg",
+                  "knowledge-graph",
+                  "language-model",
+                  "large-language-model",
+                  "llm",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             }
@@ -169,12 +275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.",
+                "homepage": "https://arxiv.org/abs/2405.14831",
                 "id": 805115184,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-23T14:35:10Z",
+                "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3968
+                "stars": 3968,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -185,12 +296,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM-based ontological extraction tools, including SPIRES",
+                "homepage": "https://monarch-initiative.github.io/ontogpt/",
                 "id": 584843480,
                 "language": "Jupyter Notebook",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-22T22:27:05Z",
+                "open_issues": 78,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 983
+                "stars": 986,
+                "topics": [
+                  "ai",
+                  "chat-gpt",
+                  "data-modeling",
+                  "gpt-3",
+                  "information-extraction",
+                  "language-models",
+                  "large-language-models",
+                  "linkml",
+                  "llm",
+                  "monarchinitiative",
+                  "named-entity-recognition",
+                  "ner",
+                  "nlp",
+                  "oaklib",
+                  "obofoundry",
+                  "relation-extraction"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -201,12 +334,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks",
+                "homepage": null,
                 "id": 717297137,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-09T08:31:49Z",
+                "open_issues": 7,
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 943
+                "stars": 943,
+                "topics": [
+                  "bert-models",
+                  "bioinformatics",
+                  "bioinformatics-algorithms",
+                  "biomedical-applications",
+                  "biomedical-informatics",
+                  "context-aware",
+                  "gpt",
+                  "gpt35turbo",
+                  "gpt4",
+                  "knowledge-base",
+                  "knowledge-graph",
+                  "large-language-models",
+                  "llama",
+                  "llama2",
+                  "llm",
+                  "prompt-engineering",
+                  "prompt-tuning",
+                  "rag",
+                  "retrieval-augmented-generation",
+                  "sentence-transformers"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -217,12 +376,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of ICLR 2024 paper: \"Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning\"",
+                "homepage": "https://arxiv.org/abs/2310.01061",
                 "id": 699108524,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-05T11:37:00Z",
+                "open_issues": 7,
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
-                "stars": 533
+                "stars": 533,
+                "topics": [
+                  "kg",
+                  "knowledge",
+                  "large-language-models",
+                  "llm",
+                  "reasoning",
+                  "reasoning-on-graph"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -233,12 +404,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WWWJ 2024] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities",
+                "homepage": null,
                 "id": 616418970,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-14T03:43:02Z",
+                "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "AutoKG",
-                "stars": 472
+                "stars": 472,
+                "topics": [
+                  "chatgpt",
+                  "event-extraction",
+                  "gpt4",
+                  "information-extraction",
+                  "knowledge-graph",
+                  "knowledge-graph-completion",
+                  "knowledge-graph-construction",
+                  "large-language-models",
+                  "link-prediction",
+                  "relation-extraction",
+                  "relational-triple-extraction"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -249,12 +437,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exploring large language models for knowledge graph completion. ICASSP 2025",
+                "homepage": null,
                 "id": 643781218,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-08-23T05:45:02Z",
+                "open_issues": 11,
                 "owner": "yao8839836",
                 "repo": "kg-llm",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "knowledge-graph",
+                  "large-language-models",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -265,12 +462,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS'24] Knowledge Graph Fine-Tuning using LLMs",
+                "homepage": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/f606d45ae7b991988b6eea2af38b7057-Abstract-Conference.html",
                 "id": 794245763,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-27T06:49:06Z",
+                "open_issues": 1,
                 "owner": "pat-jj",
                 "repo": "KG-FIT",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "kg-embeddings",
+                  "knowledge-graph",
+                  "large-language-models"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -281,12 +487,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TechGPT 2.0: Technology-Oriented Generative Pretrained Transformer 2.0",
+                "homepage": null,
                 "id": 723297594,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-23T12:24:37Z",
+                "open_issues": 2,
                 "owner": "neukg",
                 "repo": "TechGPT-2.0",
-                "stars": 115
+                "stars": 115,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -297,12 +508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "We want to try and evaluate LLMs using Knowledge Graphs",
+                "homepage": null,
                 "id": 621572317,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-02T01:57:59Z",
+                "open_issues": 3,
                 "owner": "Akirato",
                 "repo": "LLM-KG-Reasoning",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -313,12 +529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 24 main] Large Language Models Can Learn Temporal Reasoning",
+                "homepage": null,
                 "id": 749654911,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-11T19:21:17Z",
+                "open_issues": 0,
                 "owner": "xiongsiheng",
                 "repo": "TG-LLM",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -329,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UrbanKGent is an urban knowledge graph construction agent.",
+                "homepage": null,
                 "id": 749387889,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-10-14T09:29:21Z",
+                "open_issues": 2,
                 "owner": "usail-hkust",
                 "repo": "UrbanKGent",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -345,12 +571,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS‘24] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models",
+                "homepage": null,
                 "id": 905096876,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-10T04:13:29Z",
+                "open_issues": 1,
                 "owner": "chensyCN",
                 "repo": "llm4ea_official",
-                "stars": 64
+                "stars": 64,
+                "topics": [
+                  "entity-alignment",
+                  "graph-llm",
+                  "large-language-models",
+                  "llm-apps"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -361,12 +597,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mastery of a Three-Word Language for Knowledge Graph Completion",
+                "homepage": null,
                 "id": 869398679,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-24T12:29:33Z",
+                "open_issues": 5,
                 "owner": "zjukg",
                 "repo": "MKGL",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -377,12 +618,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive LLM Chatbot that constructs direct and transitive software dependencies as a knowledge graph and answers user's questions leveraging RAG and critic-agent approach",
+                "homepage": null,
                 "id": 767602654,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-08T07:42:19Z",
+                "open_issues": 0,
                 "owner": "Mohannadcse",
                 "repo": "DepsRAG",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "agentic-rag",
+                  "chat",
+                  "dependency-chain",
+                  "dependency-graph",
+                  "llm",
+                  "multi-agent-llms",
+                  "native-dependencies",
+                  "rag",
+                  "software-dependencies"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -393,12 +649,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 813157118,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-10-24T12:17:21Z",
+                "open_issues": 0,
                 "owner": "shiliu-egg",
                 "repo": "ICML2024_COFT",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -409,12 +670,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository contains code and access to the dataset used for our paper titled `Prompt-Time Ontology-Driven Symbolic Knowledge Capture with Large Language Models`",
+                "homepage": "https://ceur-ws.org/Vol-3894/paper21.pdf",
                 "id": 803703522,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-05-19T20:40:08Z",
+                "open_issues": 4,
                 "owner": "HaltiaAI",
                 "repo": "paper-PTODSKC",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -425,12 +691,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository contains code and access to the dataset used for our paper titled `Prompt-Time Symbolic Knowledge Capture with Large Language Models`",
+                "homepage": "https://arxiv.org/abs/2402.00414",
                 "id": 751267598,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-29T14:38:30Z",
+                "open_issues": 0,
                 "owner": "HaltiaAI",
                 "repo": "paper-PTSKC",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             }
@@ -448,12 +719,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "(NeurIPS D&B 2024) STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases ",
+                "homepage": "https://stark.stanford.edu/",
                 "id": 790344783,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-06T06:08:54Z",
+                "open_issues": 7,
                 "owner": "snap-stanford",
                 "repo": "stark",
-                "stars": 335
+                "stars": 335,
+                "topics": [
+                  "graph",
+                  "information-retrieval",
+                  "knowledge-base",
+                  "llm",
+                  "multimodal",
+                  "nlp",
+                  "semi-structured-data"
+                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -464,12 +748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ACL 24 main] Large Language Models Can Learn Temporal Reasoning",
+                "homepage": null,
                 "id": 749654911,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-11T19:21:17Z",
+                "open_issues": 0,
                 "owner": "xiongsiheng",
                 "repo": "TG-LLM",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -480,12 +769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 898399845,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-05T11:44:49Z",
+                "open_issues": 0,
                 "owner": "ernlavr",
                 "repo": "multihal",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             }
@@ -499,15 +793,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:31:52.188Z",
+    "last_updated": "2026-08-29T04:23:40.630Z",
     "original_repository_info": {
       "archived": false,
+      "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
+      "homepage": null,
       "id": 652420569,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-03-02T20:23:03Z",
+      "open_issues": 10,
       "owner": "zjukg",
       "repo": "KG-LLM-Papers",
-      "stars": 2227
+      "stars": 2227,
+      "topics": [
+        "awesome",
+        "awesome-kg",
+        "awesome-llm",
+        "awsome-list",
+        "commonsense",
+        "gpt",
+        "knowledge",
+        "knowledge-graph",
+        "language-models",
+        "large-language-models",
+        "llm",
+        "nlp",
+        "paper-list",
+        "prompt",
+        "survey"
+      ]
     },
     "original_repository_sha": "c1b0f1e9fa374e2707e5ea1c6588c77ff4973e7b",
     "enhanced_repository": "enhansome/enhansome-KG-LLM-Papers",
