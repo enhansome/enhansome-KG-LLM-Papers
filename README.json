@@ -280,11 +280,11 @@
                 "id": 805115184,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-23T14:35:10Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-02T12:41:40Z",
+                "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 3977,
+                "stars": 3978,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -305,7 +305,7 @@
                 "open_issues": 78,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 990,
+                "stars": 992,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -382,7 +382,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-03-05T11:37:00Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
                 "stars": 532,
@@ -534,11 +534,11 @@
                 "id": 749654911,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-04-11T19:21:17Z",
+                "last_commit": "2026-09-02T10:39:22Z",
                 "open_issues": 0,
                 "owner": "xiongsiheng",
                 "repo": "TG-LLM",
-                "stars": 71,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -577,7 +577,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2025-10-10T04:13:29Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "chensyCN",
                 "repo": "llm4ea_official",
                 "stars": 64,
@@ -753,11 +753,11 @@
                 "id": 749654911,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-04-11T19:21:17Z",
+                "last_commit": "2026-09-02T10:39:22Z",
                 "open_issues": 0,
                 "owner": "xiongsiheng",
                 "repo": "TG-LLM",
-                "stars": 71,
+                "stars": 70,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:42:32.138Z",
+    "last_updated": "2026-09-03T08:51:34.191Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",

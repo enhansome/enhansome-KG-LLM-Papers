@@ -63,18 +63,18 @@
 
 ### Method
 
-* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,977 | 🐛 8 | 🌐 Python | 📅 2026-08-23]
-* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 990 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-06-22]
+* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 3,978 | 🐛 9 | 🌐 Python | 📅 2026-09-02]
+* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 992 | 🐛 78 | 🌐 Jupyter Notebook | 📅 2026-06-22]
 * \[[arxiv](https://arxiv.org/abs/2311.17330)] Biomedical knowledge graph-optimized prompt generation for large language models. `2023.11` \[[Repo](https://github.com/BaranziniLab/KG_RAG) ⭐ 943 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-11-09]
-* \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 532 | 🐛 7 | 🌐 Python | 📅 2025-03-05]
+* \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 532 | 🐛 8 | 🌐 Python | 📅 2025-03-05]
 * \[[arxiv](https://arxiv.org/abs/2305.13168)] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05` \[[Repo](https://github.com/zjunlp/AutoKG) ⭐ 472 | 🐛 1 | 🌐 Python | 📅 2025-01-14]
 * \[[arxiv](https://arxiv.org/abs/2308.13916)] Exploring Large Language Models for Knowledge Graph Completion. `2023.08` \[[Repo](https://github.com/yao8839836/kg-llm) ⭐ 162 | 🐛 11 | 🌐 Python | 📅 2025-08-23]
 * \[[NeurIPS 2024](https://arxiv.org/abs/2405.16412)] KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge. `2024.10` \[[Repo](https://github.com/pat-jj/KG-FIT) ⭐ 130 | 🐛 1 | 🌐 Python | 📅 2025-05-27]
 * \[[arxiv](https://arxiv.org/abs/2401.04507)] TechGPT-2.0: A large language model project to solve the task of knowledge graph construction. `2024.01` \[[Repo](https://github.com/neukg/TechGPT-2.0) ⭐ 115 | 🐛 2 | 🌐 Python | 📅 2024-08-23]
 * \[[arxiv](https://arxiv.org/abs/2305.01157)] Complex Logical Reasoning over Knowledge Graphs using Large Language Models. `2023.05`  \[[Repo](https://github.com/Akirato/LLM-KG-Reasoning/tree/main) ⭐ 113 | 🐛 3 | 🌐 Python | 📅 2023-05-02]
-* \[[ACL 24](https://arxiv.org/abs/2401.06853)] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-04-11]
+* \[[ACL 24](https://arxiv.org/abs/2401.06853)] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2026-09-02]
 * \[[NeurIPS 2024](https://arxiv.org/abs/2402.06861)] UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction. `2024.10` \[[Repo](https://github.com/usail-hkust/UrbanKGent) ⭐ 67 | 🐛 2 | 🌐 Python | 📅 2025-10-14]
-* \[[NeurIPS 2024](https://arxiv.org/abs/2405.16806)] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models. `2024.09` \[[Repo](https://github.com/chensyCN/llm4ea_official) ⭐ 64 | 🐛 0 | 🌐 Python | 📅 2025-10-10]
+* \[[NeurIPS 2024](https://arxiv.org/abs/2405.16806)] LLM4EA: Entity Alignment with Noisy Annotations from Large Language Models. `2024.09` \[[Repo](https://github.com/chensyCN/llm4ea_official) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2025-10-10]
 * \[[NeurIPS 2024](https://arxiv.org/abs/2410.07526)] MKGL: Mastery of a Three-Word Language. `2024.10` \[[Repo](https://github.com/zjukg/MKGL) ⭐ 33 | 🐛 5 | 🌐 Python | 📅 2025-02-24]
 * \[[arxiv](https://arxiv.org/abs/2405.20455)] DepsRAG: Towards Managing Software Dependencies using Large Language Models. `2024.06` \[[Repo](https://github.com/Mohannadcse/DepsRAG) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-06-08]
 * \[[ICML 2024](https://openreview.net/forum?id=JCG0KTPVYy)] Coarse-to-Fine Highlighting: Reducing Knowledge Hallucination in Large Language Models. `2024.10` \[[Repo](https://github.com/shiliu-egg/ICML2024_COFT) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2024-10-24]
@@ -312,7 +312,7 @@
 ### Resources and Benchmarking
 
 * \[[arxiv](https://arxiv.org/abs/2404.13207)] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. `2024.04` \[[Repo](https://github.com/snap-stanford/stark) ⭐ 335 | 🐛 7 | 🌐 Python | 📅 2026-02-06]
-* \[[ACL 24](https://arxiv.org/abs/2401.06853)] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM) ⭐ 71 | 🐛 0 | 🌐 Python | 📅 2026-04-11]
+* \[[ACL 24](https://arxiv.org/abs/2401.06853)] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2026-09-02]
 * \[[arxiv](https://arxiv.org/abs/2505.14101)] MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations `2025.05` \[[Repo](https://github.com/ernlavr/multihal) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-05]
 * \[[arxiv](https://arxiv.org/abs/2402.06341)] RareBench: Can LLMs Serve as Rare Diseases Specialists?. `2024.02`
 * \[[arxiv](https://arxiv.org/abs/2401.14640)] Benchmarking Large Language Models in Complex Question Answering Attribution using Knowledge Graphs. `2024.01`
@@ -408,4 +408,4 @@ If this Repo is helpful to you, please consider citing one of our papers. We wou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
