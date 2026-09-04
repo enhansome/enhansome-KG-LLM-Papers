@@ -280,8 +280,8 @@
                 "id": 805115184,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-02T12:41:40Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-03T12:15:39Z",
+                "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
                 "stars": 3978,
@@ -305,7 +305,7 @@
                 "open_issues": 78,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 992,
+                "stars": 995,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:51:34.191Z",
+    "last_updated": "2026-09-04T08:46:33.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
