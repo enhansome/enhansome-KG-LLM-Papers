@@ -284,7 +284,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4014,
+                "stars": 4015,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -305,7 +305,7 @@
                 "open_issues": 80,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 1017,
+                "stars": 1019,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -592,6 +592,37 @@
             },
             {
               "node_type": "item",
+              "title": "Mohannadcse/DepsRAG",
+              "description": "] DepsRAG: Towards Managing Software Dependencies using Large Language Models. [Repo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Interactive LLM Chatbot that constructs direct and transitive software dependencies as a knowledge graph and answers user's questions leveraging RAG and critic-agent approach",
+                "homepage": null,
+                "id": 767602654,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-06-08T07:42:19Z",
+                "open_issues": 0,
+                "owner": "Mohannadcse",
+                "repo": "DepsRAG",
+                "stars": 34,
+                "topics": [
+                  "agentic-rag",
+                  "chat",
+                  "dependency-chain",
+                  "dependency-graph",
+                  "llm",
+                  "multi-agent-llms",
+                  "native-dependencies",
+                  "rag",
+                  "software-dependencies"
+                ]
+              },
+              "first_seen": "2026-08-28T16:31:52.188Z"
+            },
+            {
+              "node_type": "item",
               "title": "[NeurIPS 2024",
               "description": "] MKGL: Mastery of a Three-Word Language. [Repo]",
               "children": [],
@@ -608,37 +639,6 @@
                 "repo": "MKGL",
                 "stars": 33,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T16:31:52.188Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mohannadcse/DepsRAG",
-              "description": "] DepsRAG: Towards Managing Software Dependencies using Large Language Models. [Repo]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Interactive LLM Chatbot that constructs direct and transitive software dependencies as a knowledge graph and answers user's questions leveraging RAG and critic-agent approach",
-                "homepage": null,
-                "id": 767602654,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-06-08T07:42:19Z",
-                "open_issues": 0,
-                "owner": "Mohannadcse",
-                "repo": "DepsRAG",
-                "stars": 33,
-                "topics": [
-                  "agentic-rag",
-                  "chat",
-                  "dependency-chain",
-                  "dependency-graph",
-                  "llm",
-                  "multi-agent-llms",
-                  "native-dependencies",
-                  "rag",
-                  "software-dependencies"
-                ]
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
             },
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T08:44:18.326Z",
+    "last_updated": "2026-09-20T09:13:31.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
