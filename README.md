@@ -63,8 +63,8 @@
 
 ### Method
 
-* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,024 | 🐛 9 | 🌐 Python | 📅 2026-09-03]
-* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 1,030 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2026-09-10]
+* \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,023 | 🐛 9 | 🌐 Python | 📅 2026-09-03]
+* \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 1,032 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2026-09-10]
 * \[[arxiv](https://arxiv.org/abs/2311.17330)] Biomedical knowledge graph-optimized prompt generation for large language models. `2023.11` \[[Repo](https://github.com/BaranziniLab/KG_RAG) ⭐ 947 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-11-09]
 * \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 534 | 🐛 8 | 🌐 Python | 📅 2025-03-05]
 * \[[arxiv](https://arxiv.org/abs/2305.13168)] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05` \[[Repo](https://github.com/zjunlp/AutoKG) ⭐ 473 | 🐛 1 | 🌐 Python | 📅 2025-01-14]
@@ -311,7 +311,7 @@
 
 ### Resources and Benchmarking
 
-* \[[arxiv](https://arxiv.org/abs/2404.13207)] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. `2024.04` \[[Repo](https://github.com/snap-stanford/stark) ⭐ 335 | 🐛 7 | 🌐 Python | 📅 2026-02-06]
+* \[[arxiv](https://arxiv.org/abs/2404.13207)] STaRK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases. `2024.04` \[[Repo](https://github.com/snap-stanford/stark) ⭐ 337 | 🐛 7 | 🌐 Python | 📅 2026-02-06]
 * \[[ACL 24](https://arxiv.org/abs/2401.06853)] Large Language Models Can Learn Temporal Reasoning. `2024.01` \[[Repo](https://github.com/xiongsiheng/TG-LLM) ⭐ 70 | 🐛 0 | 🌐 Python | 📅 2026-09-02]
 * \[[arxiv](https://arxiv.org/abs/2505.14101)] MultiHal: Multilingual Dataset for Knowledge-Graph Grounded Evaluation of LLM Hallucinations `2025.05` \[[Repo](https://github.com/ernlavr/multihal) ⭐ 3 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-06-05]
 * \[[arxiv](https://arxiv.org/abs/2402.06341)] RareBench: Can LLMs Serve as Rare Diseases Specialists?. `2024.02`
@@ -408,4 +408,4 @@ If this Repo is helpful to you, please consider citing one of our papers. We wou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
