@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "We preprint our Survey Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey [].",
-          "description": null,
+          "description": "zjukg/KG-MM-Survey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -46,7 +46,7 @@
         {
           "node_type": "item",
           "title": "Our paper Making Large Language Models Perform Better in Knowledge Graph Completion has been accepted by ACM MM 2024 as an oral paper. []",
-          "description": null,
+          "description": "zjukg/KoPA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -75,7 +75,7 @@
         {
           "node_type": "item",
           "title": "Our paper Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering has been accepted by ACL 2024. []",
-          "description": null,
+          "description": "zjukg/KnowPAT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -103,7 +103,7 @@
         {
           "node_type": "item",
           "title": "We preprint our Paper OntoTune: Ontology-Driven Self-training for Aligning Large Language Models (WWW 2025) [].",
-          "description": null,
+          "description": "zjukg/OntoTune",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -133,7 +133,7 @@
         {
           "node_type": "item",
           "title": "Our paper MKGL: Mastery of a Three-Word Language has been accepted by NeurIPS 2024 as a spotlight paper. []",
-          "description": null,
+          "description": "zjukg/MKGL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,7 +154,7 @@
         {
           "node_type": "item",
           "title": "We preprint our Paper K-ON: Stacking Knowledge On the Head Layer of Large Language Model (AAAI 2025 Oral) [].",
-          "description": null,
+          "description": "zjukg/K-ON",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -175,7 +175,7 @@
         {
           "node_type": "item",
           "title": "We preprint our Paper Have We Designed Generalizable Structural Knowledge Promptings? Systematic Evaluation and Rethinking [].",
-          "description": null,
+          "description": "zjukg/SUBARU",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +204,7 @@
         {
           "node_type": "item",
           "title": "We preprint our Paper TrustUQA: A Trustful Framework for Unified Structured Data Question Answering (AAAI 2025) [].",
-          "description": null,
+          "description": "zjukg/TrustUQA",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -284,7 +284,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4033,
+                "stars": 4035,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:26:15.767Z",
+    "last_updated": "2026-10-03T04:29:26.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
