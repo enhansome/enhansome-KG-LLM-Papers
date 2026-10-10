@@ -284,7 +284,7 @@
                 "open_issues": 7,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4051,
+                "stars": 4054,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:15:23.790Z",
+    "last_updated": "2026-10-10T10:32:23.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
