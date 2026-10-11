@@ -343,7 +343,7 @@
                 "open_issues": 7,
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "bert-models",
                   "bioinformatics",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:32:23.190Z",
+    "last_updated": "2026-10-11T10:45:03.687Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
@@ -805,7 +805,7 @@
       "open_issues": 10,
       "owner": "zjukg",
       "repo": "KG-LLM-Papers",
-      "stars": 2237,
+      "stars": 2239,
       "topics": [
         "awesome",
         "awesome-kg",
