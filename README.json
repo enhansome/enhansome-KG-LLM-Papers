@@ -116,7 +116,7 @@
             "open_issues": 1,
             "owner": "zjukg",
             "repo": "OntoTune",
-            "stars": 50,
+            "stars": 51,
             "topics": [
               "knowledge",
               "knowledge-graph",
@@ -246,7 +246,7 @@
                 "open_issues": 5,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2619,
+                "stars": 2620,
                 "topics": [
                   "awsome",
                   "chatgpt",
@@ -305,7 +305,7 @@
                 "open_issues": 80,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 1077,
+                "stars": 1079,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -728,7 +728,7 @@
                 "open_issues": 7,
                 "owner": "snap-stanford",
                 "repo": "stark",
-                "stars": 337,
+                "stars": 338,
                 "topics": [
                   "graph",
                   "information-retrieval",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:29:39.236Z",
+    "last_updated": "2026-10-29T10:49:40.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
