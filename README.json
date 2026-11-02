@@ -246,7 +246,7 @@
                 "open_issues": 5,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2620,
+                "stars": 2621,
                 "topics": [
                   "awsome",
                   "chatgpt",
@@ -284,7 +284,7 @@
                 "open_issues": 8,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4088,
+                "stars": 4094,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -305,7 +305,7 @@
                 "open_issues": 80,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 1081,
+                "stars": 1082,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:12:08.827Z",
+    "last_updated": "2026-11-02T12:14:04.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
@@ -805,7 +805,7 @@
       "open_issues": 10,
       "owner": "zjukg",
       "repo": "KG-LLM-Papers",
-      "stars": 2245,
+      "stars": 2247,
       "topics": [
         "awesome",
         "awesome-kg",
