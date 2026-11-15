@@ -281,10 +281,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-06T21:03:49Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4122,
+                "stars": 4125,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -343,7 +343,7 @@
                 "open_issues": 7,
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 949,
+                "stars": 950,
                 "topics": [
                   "bert-models",
                   "bioinformatics",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:22:11.479Z",
+    "last_updated": "2026-11-15T11:52:49.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
