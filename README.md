@@ -17,7 +17,7 @@
  <summary>👈 🔔 News </summary>
 
 * **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  \[[`Repo`](https://github.com/zjukg/KG-MM-Survey) ⭐ 509 | 🐛 0 | 📅 2026-03-02].**
-* **`2024-07` Our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) has been accepted by ACM MM 2024 as an oral paper. \[[`Repo`](https://github.com/zjukg/KoPA) ⭐ 214 | 🐛 3 | 🌐 Python | 📅 2024-08-12]**
+* **`2024-07` Our paper [Making Large Language Models Perform Better in Knowledge Graph Completion](https://arxiv.org/abs/2310.06671) has been accepted by ACM MM 2024 as an oral paper. \[[`Repo`](https://github.com/zjukg/KoPA) ⭐ 215 | 🐛 3 | 🌐 Python | 📅 2024-08-12]**
 * **`2024-05` Our paper [Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering](https://arxiv.org/abs/2311.06503) has been accepted by ACL 2024. \[[`Repo`](https://github.com/zjukg/KnowPAT) ⭐ 192 | 🐛 0 | 🌐 Python | 📅 2024-06-10]**
 * **`2025-02` We preprint our Paper [OntoTune: Ontology-Driven Self-training for Aligning Large Language Models](https://arxiv.org/abs/2502.05478) (WWW 2025) \[[`Repo`](https://github.com/zjukg/OntoTune) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2025-07-21].**
 * **`2024-09` Our paper [MKGL: Mastery of a Three-Word Language](https://openreview.net/forum?id=eqMNwXvOqn) has been accepted by NeurIPS 2024 as a spotlight paper. \[[`Repo`](https://github.com/zjukg/MKGL) ⭐ 34 | 🐛 5 | 🌐 Python | 📅 2025-02-24]**
@@ -66,7 +66,7 @@
 * \[[arxiv](https://arxiv.org/abs/2405.14831)] HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models  `2024.05` \[[Repo](https://github.com/OSU-NLP-Group/HippoRAG) ⭐ 4,125 | 🐛 9 | 🌐 Python | 📅 2026-10-06]
 * \[[arxiv](https://arxiv.org/abs/2304.02711)] Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning. `2023.04` \[[Repo](https://github.com/monarch-initiative/ontogpt) ⭐ 1,099 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2026-09-10]
 * \[[arxiv](https://arxiv.org/abs/2311.17330)] Biomedical knowledge graph-optimized prompt generation for large language models. `2023.11` \[[Repo](https://github.com/BaranziniLab/KG_RAG) ⭐ 950 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2024-11-09]
-* \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 536 | 🐛 8 | 🌐 Python | 📅 2025-03-05]
+* \[[ICLR 2024](https://arxiv.org/abs/2310.01061)] Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning. `2023.10` \[[Repo](https://github.com/RManLuo/reasoning-on-graphs) ⭐ 537 | 🐛 8 | 🌐 Python | 📅 2025-03-05]
 * \[[arxiv](https://arxiv.org/abs/2305.13168)] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities. `2023.05` \[[Repo](https://github.com/zjunlp/AutoKG) ⭐ 471 | 🐛 1 | 🌐 Python | 📅 2025-01-14]
 * \[[arxiv](https://arxiv.org/abs/2308.13916)] Exploring Large Language Models for Knowledge Graph Completion. `2023.08` \[[Repo](https://github.com/yao8839836/kg-llm) ⭐ 163 | 🐛 11 | 🌐 Python | 📅 2025-08-23]
 * \[[NeurIPS 2024](https://arxiv.org/abs/2405.16412)] KG-FIT: Knowledge Graph Fine-Tuning Upon Open-World Knowledge. `2024.10` \[[Repo](https://github.com/pat-jj/KG-FIT) ⭐ 130 | 🐛 1 | 🌐 Python | 📅 2025-05-27]
@@ -408,4 +408,4 @@ If this Repo is helpful to you, please consider citing one of our papers. We wou
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._

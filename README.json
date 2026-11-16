@@ -59,7 +59,7 @@
             "open_issues": 3,
             "owner": "zjukg",
             "repo": "KoPA",
-            "stars": 214,
+            "stars": 215,
             "topics": [
               "instruction-tuning",
               "knowledge-graph",
@@ -385,7 +385,7 @@
                 "open_issues": 8,
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "kg",
                   "knowledge",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T11:52:49.695Z",
+    "last_updated": "2026-11-16T12:37:29.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
@@ -805,7 +805,7 @@
       "open_issues": 10,
       "owner": "zjukg",
       "repo": "KG-LLM-Papers",
-      "stars": 2248,
+      "stars": 2247,
       "topics": [
         "awesome",
         "awesome-kg",
