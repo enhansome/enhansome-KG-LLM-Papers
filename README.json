@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "zjukg",
             "repo": "KG-MM-Survey",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "awsome",
               "awsome-list",
@@ -284,7 +284,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4129,
+                "stars": 4132,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -305,7 +305,7 @@
                 "open_issues": 81,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 1101,
+                "stars": 1103,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -343,7 +343,7 @@
                 "open_issues": 7,
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 950,
+                "stars": 951,
                 "topics": [
                   "bert-models",
                   "bioinformatics",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:04:53.476Z",
+    "last_updated": "2026-11-18T12:55:29.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
@@ -805,7 +805,7 @@
       "open_issues": 10,
       "owner": "zjukg",
       "repo": "KG-LLM-Papers",
-      "stars": 2247,
+      "stars": 2246,
       "topics": [
         "awesome",
         "awesome-kg",
