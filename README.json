@@ -88,7 +88,7 @@
             "open_issues": 0,
             "owner": "zjukg",
             "repo": "KnowPAT",
-            "stars": 192,
+            "stars": 191,
             "topics": [
               "domain-specific-qa",
               "instruction-tuning",
@@ -246,7 +246,7 @@
                 "open_issues": 5,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2620,
+                "stars": 2618,
                 "topics": [
                   "awsome",
                   "chatgpt",
@@ -305,7 +305,7 @@
                 "open_issues": 81,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 1105,
+                "stars": 1103,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -343,7 +343,7 @@
                 "open_issues": 7,
                 "owner": "BaranziniLab",
                 "repo": "KG_RAG",
-                "stars": 951,
+                "stars": 950,
                 "topics": [
                   "bert-models",
                   "bioinformatics",
@@ -413,7 +413,7 @@
                 "open_issues": 1,
                 "owner": "zjunlp",
                 "repo": "AutoKG",
-                "stars": 472,
+                "stars": 471,
                 "topics": [
                   "chatgpt",
                   "event-extraction",
@@ -728,7 +728,7 @@
                 "open_issues": 7,
                 "owner": "snap-stanford",
                 "repo": "stark",
-                "stars": 338,
+                "stars": 339,
                 "topics": [
                   "graph",
                   "information-retrieval",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:48:49.988Z",
+    "last_updated": "2026-11-20T12:43:16.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
@@ -805,7 +805,7 @@
       "open_issues": 10,
       "owner": "zjukg",
       "repo": "KG-LLM-Papers",
-      "stars": 2245,
+      "stars": 2243,
       "topics": [
         "awesome",
         "awesome-kg",
