@@ -305,7 +305,7 @@
                 "open_issues": 81,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 1103,
+                "stars": 1102,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:26:22.292Z",
+    "last_updated": "2026-11-22T12:27:16.921Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
@@ -805,7 +805,7 @@
       "open_issues": 10,
       "owner": "zjukg",
       "repo": "KG-LLM-Papers",
-      "stars": 2243,
+      "stars": 2244,
       "topics": [
         "awesome",
         "awesome-kg",
