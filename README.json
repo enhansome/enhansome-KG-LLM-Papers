@@ -246,7 +246,7 @@
                 "open_issues": 5,
                 "owner": "RManLuo",
                 "repo": "Awesome-LLM-KG",
-                "stars": 2618,
+                "stars": 2619,
                 "topics": [
                   "awsome",
                   "chatgpt",
@@ -302,10 +302,10 @@
                 "language": "Jupyter Notebook",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-11-23T20:40:22Z",
-                "open_issues": 80,
+                "open_issues": 83,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 1105,
+                "stars": 1107,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:43:57.953Z",
+    "last_updated": "2026-11-25T14:07:45.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
