@@ -284,7 +284,7 @@
                 "open_issues": 9,
                 "owner": "OSU-NLP-Group",
                 "repo": "HippoRAG",
-                "stars": 4140,
+                "stars": 4141,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:31:52.188Z"
@@ -305,7 +305,7 @@
                 "open_issues": 83,
                 "owner": "monarch-initiative",
                 "repo": "ontogpt",
-                "stars": 1107,
+                "stars": 1108,
                 "topics": [
                   "ai",
                   "chat-gpt",
@@ -385,7 +385,7 @@
                 "open_issues": 8,
                 "owner": "RManLuo",
                 "repo": "reasoning-on-graphs",
-                "stars": 537,
+                "stars": 536,
                 "topics": [
                   "kg",
                   "knowledge",
@@ -793,7 +793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T14:07:45.994Z",
+    "last_updated": "2026-11-26T13:44:34.038Z",
     "original_repository_info": {
       "archived": false,
       "description": "[Paper List] Papers integrating knowledge graphs (KGs) and large language models (LLMs)",
